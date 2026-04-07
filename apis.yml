@@ -1,7 +1,12 @@
 aid: international-flavors-and-fragrances
-url: https://raw.githubusercontent.com/api-evangelist/international-flavors-and-fragrances/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/international-flavors-and-fragrances/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.international-flavors-and-fragrances.com
+description: >-
+  International Flavors & Fragrances (IFF) is a global creator of flavors, fragrances,
+  and ingredients for consumer products including perfumes, cosmetics, food, beverages,
+  and household goods.
