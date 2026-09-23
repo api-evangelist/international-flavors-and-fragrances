@@ -1,7 +1,9 @@
 ---
 title: Is AI About to Revolutionize Fragrance? - by Avery Gilbert
 url: https://averygilbert.substack.com/p/is-ai-about-to-revolutionize-fragrance
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"International Flavors & Fragrances" press release artificial intelligence'
 position: 4
 source: serpapi-google
